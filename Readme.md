@@ -27,3 +27,5 @@ Data in database systems is independent.
 - Data Independence
 - Controlled Redundancy
 - Better data integrity (valid data)
+
+**This Repository covers MYSQL database.**
