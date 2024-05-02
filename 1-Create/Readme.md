@@ -3,7 +3,7 @@
 Create a database using this query.
 
 ```sql
-CREATE DATABASE GroceryStore
+CREATE DATABASE University
 ```
 
 ## Create Table
